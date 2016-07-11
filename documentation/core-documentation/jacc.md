@@ -2,7 +2,7 @@
 
 JACC stands for Java Authentication Contract for Containers. It's defined in [JSR 115](https://jcp.org/en/jsr/detail?id=115) and all Java EE complaint servers are mandated to provide a default JACC Policy.
 
-## How to install a custom provider
+## How to install a custom JACC provider
 
 Having coded a JACC provider, the first thing to register it is to make the classes available for the server. For that purpose, you need to put the implementation JAR, with all its dependencies, under `[payara_home]\lib`. So for example, if Payara Server is installed under `\opt\payara`, your JAR should reside under `\opt\payara\lib`. That way it will be part of Payara's global classpath on boot.
 
