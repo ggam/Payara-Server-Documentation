@@ -14,6 +14,7 @@
     * [Payara Server 4.1.1.161.1 Release Notes](release-notes/release-notes-161.1.md)
     * [Payara Server 4.1.1.162 Release Notes](release-notes/release-notes-162.md)
 * [Core Documentation](documentation/core-documentation/core-documentation.md)
+    * [JACC](documentation/core-documentation/jacc.md) 
 * [Extended Documentation](documentation/extended-documentation/extended-documentation.md)
     * [Advanced JDBC](documentation/extended-documentation/advanced-jdbc/advanced-jdbc-configuration-and-diagnostics.md)
         * [Advanced Connection Pool Properties](documentation/extended-documentation/advanced-jdbc/advanced-jdbc-configuration-and-diagnostics.md)
